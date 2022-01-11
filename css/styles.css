@@ -231,7 +231,7 @@ a {
 }
 .container-back-1 {
 	transition: 300ms ease;
-	background: url("../html/pictures/background/IMG_3.jpg");
+	background: url("pictures/background/IMG_3.jpg");
 	/*background: radial-gradient(circle, #6ad2fc 25%, #b56afc 30%, #3a0826 45%);*/
 	opacity: 0.5;
 	margin: 24px;
@@ -242,7 +242,7 @@ a {
 }
 .container-back-2 {
 	transition: 300ms ease;
-	background: url("../html/pictures/background/IMG_1.jpg");
+	background: url("pictures/background/IMG_1.jpg");
 	/*background: radial-gradient(circle, #6ad2fc 25%, #b56afc 30%, #3a0826 45%);*/
 	opacity: 0.5;
 	margin: 24px;
